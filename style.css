@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navbarr{
+	height: 70px;
+	background: white;
+	opacity: 90%;
+}
+#brand-font{ 
+	font-family: 'Mansalva', cursive;
+	font-size: 28px;
+}
+#link-font{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 26px;
+}
+#jumbo{
+	background: url("assets/images/cafe.jpg");
+	background-size: cover;
+	height: 450px;
+	color: white;
+}
+#text-lead{
+	padding-top: 150px;
+	font-size: 20px;
+	font-weight: bold;
+}
+#text-lead-small{
+	font-size: 14px;
+	font-style: italic;
+}
+#btn{
+	font-size: 16px;
+}
+/*====category====*/
+#category{
+	height: 200px;
+	padding-top: 20px;
+
+}
+/*==== category menu======*/
+#category-h3{
+	margin-top: 50px; text-align: center; 
+	background-color: #f8f9fa;
+	width: 250px; margin-left: 430px;
+}
+#category-menu{
+	height: 550px;
+	padding-top: 20px;
+}
+#text-footer{
+	color: #f8f9fa;
+	padding-bottom: 17px
+}
+hr{
+	background-color: #f8f9fa;
+}
+
+/*0895-378-170-330*/
